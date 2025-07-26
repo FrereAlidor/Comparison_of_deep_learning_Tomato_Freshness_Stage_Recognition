@@ -7,9 +7,11 @@ This project presents a comparative study of three deep learning models — **YO
 
 ## 📽️ Mobile App Demo
 
-You can find a video demonstration of the mobile app under the [`Application_detector/`](./Application_detector) folder.
+## 📱 Mobile Application Demo
 
-> ⚠️ Note: The APK file exceeds GitHub’s recommended file size. You may consider using [Git LFS](https://git-lfs.github.com) for better handling of large files.
+Watch our mobile application in action as it detects and classifies tomato freshness in real-time:
+
+🎥 **[Click here to watch the demo video](https://github.com/FrereAlidor/Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition/releases/download/v1.0/Video_demo_application.mp4)**
 
 ---
 

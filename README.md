@@ -1,9 +1,5 @@
 # Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition
 
-Here's a complete `README.md` file in **English** for your GitHub project **"Comparison of Deep Learning Models for Tomato Freshness Stage Recognition"**. It includes a clear overview, setup instructions, results table, and a note about the mobile app demo.
-
----
-
 ```markdown
 # 🍅 Comparison of Deep Learning Models for Tomato Freshness Stage Recognition
 
@@ -126,7 +122,4 @@ GitHub: [FrereAlidor](https://github.com/FrereAlidor)
 
 ---
 
-```
 
-Let me know if you'd like a French version or to add badges, DOI for publication, or links to Colab notebooks or Hugging Face models.
-```

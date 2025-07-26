@@ -2,14 +2,6 @@
 
 This project presents a comparative study of three deep learning models — **YOLOv5m**, **Xception**, and a **Vision Transformer** — for classifying tomato freshness stages: **Fresh**, **At-risk**, and **Rotten**. A mobile application is also included for real-time deployment.
 
-## Mobile App Demo
-
-Watch our mobile application in action as it detects and classifies tomato freshness stages in real-time:
-
-[![Demo Video](https://img.youtube.com/vi/PNju0ZqShmw/maxresdefault.jpg)](https://youtube.com/shorts/PNju0ZqShmw)
-
-[🎥 Watch the live demo on YouTube](https://youtube.com/shorts/PNju0ZqShmw)
-
 ## Dataset
 
 The dataset used in this project contains images grouped into three categories:
@@ -94,6 +86,14 @@ python val.py
 - **YOLOv5m** offers the best balance between accuracy (99.44%) and inference speed (156.1 ms)
 - **Xception** provides solid performance with moderate training time but slower inference
 - All models demonstrate excellent performance for practical deployment
+
+  ## Mobile App Demo
+
+Watch our mobile application in action as it detects and classifies tomato freshness stages in real-time:
+
+[![Demo Video](https://img.youtube.com/vi/PNju0ZqShmw/maxresdefault.jpg)](https://youtube.com/shorts/PNju0ZqShmw)
+
+[🎥 Watch the live demo on YouTube](https://youtube.com/shorts/PNju0ZqShmw)
 
 ## Conclusion
 

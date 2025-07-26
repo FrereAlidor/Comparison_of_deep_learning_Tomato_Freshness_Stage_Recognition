@@ -11,7 +11,7 @@ This project presents a comparative study of three deep learning models — **YO
 
 Watch our mobile application in action as it detects and classifies tomato freshness in real-time:
 
-🎥 **[Click here to watch the demo video](https://github.com/FrereAlidor/Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition/releases/download/v1.0/Video_demo_application.mp4)**
+🎥[![Watch Demo Video](./thumbnail.jpg)](https://github.com/FrereAlidor/Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition/releases/download/v1.0/Video_demo_application.mp4)
 
 ---
 

@@ -3,7 +3,7 @@
 ```markdown
 # 🍅 Comparison of Deep Learning Models for Tomato Freshness Stage Recognition
 
-This project presents a comparative study of three deep learning models — **YOLOv5m**, **Xception**, and a **Vision Transformer** — for the classification of tomato freshness stages: **Fresh**, **At-risk**, and **Rotten**. The project also includes a mobile application demo for real-time prediction.
+This project presents a comparative study of three deep learning models — **YOLOv5m**, **Xception**, and a *Vision Transformer* — for the classification of tomato freshness stages: **Fresh**, **At-risk**, and **Rotten**. The project also includes a mobile application demo for real-time prediction.
 
 ## 📽️ Mobile App Demo
 

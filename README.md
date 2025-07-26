@@ -6,9 +6,9 @@ This project presents a comparative study of three deep learning models — **YO
 
 Watch our mobile application in action as it detects and classifies tomato freshness stages in real-time:
 
-[![Demo Video](./thumbnail.jpg)](https://github.com/FrereAlidor/Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition/releases/download/v1.0/Video_demo_application.mp4)
+[![Demo Video](https://img.youtube.com/vi/PNju0ZqShmw/maxresdefault.jpg)](https://youtube.com/shorts/PNju0ZqShmw)
 
-[Click here to watch or download the demo video](https://github.com/FrereAlidor/Comparison_of_deep_learning_Tomato_Freshness_Stage_Recognition/releases/download/v1.0/Video_demo_application.mp4)
+[🎥 Watch the live demo on YouTube](https://youtube.com/shorts/PNju0ZqShmw)
 
 ## Dataset
 
@@ -110,6 +110,3 @@ GitHub: [FrereAlidor](https://github.com/FrereAlidor)
 ## License
 
 This project is available under the MIT License. See the LICENSE file for more details.
-
-
-
